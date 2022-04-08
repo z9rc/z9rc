@@ -6,8 +6,8 @@
 </div>
  <div style="display: inline_block"><br>
    
-   [![Discord Presence](https://lanyard.cnrad.dev/api/928791980660621403
-                            )](https://discord.com/users/928791980660621403)
+   [![Discord Presence](https://lanyard.cnrad.dev/api/737703038306746411
+                            )](https://discord.com/users/737703038306746411)
 
 
    
