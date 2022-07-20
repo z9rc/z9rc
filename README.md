@@ -1,5 +1,8 @@
+<br>
+<div align="center">
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/997498867652231178)](https://discord.com/users/997498867652231178)
+<p align="center">
 
 <p align="center">
    <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
@@ -7,5 +10,5 @@
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z9u&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z9u&layout=compact&langs_count=7&theme=tokyonight"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=tokyonight"
  <div style="display: inline_block"><br>
